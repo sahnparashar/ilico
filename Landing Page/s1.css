@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 22, 2018, 10:02:28 AM
+    Author     : juhijasmine
+*/
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    
+}
+#particles-js{
+   height: 100%;
+   background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(c1.jpg);
+   background-size: cover;
+   
+}
